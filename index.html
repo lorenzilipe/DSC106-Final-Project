@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>DSC106 Final Project by Felipe Lorenzi</title>
+    <link rel="stylesheet" href="styles.css">
+    <script type="text/javascript" src="app.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body onload=plots()>
+    <div id="plot1" class="center_plot"></div>
+    <div class="plot_response">
+        <p>a. The color scheme in this plot is not encoding for any values or keys.</p>
+        <p>b. This plot uses dot marks with vertical and horizontal position channels 
+            encoding for two different continuous variables.</p>
+    </div>
+    <div class="divider"></div>
+    <div id="plot2" class="center_plot"></div>
+    <div class="plot_response">
+        <p>a. The color scheme in this plot is not encoding for any values or keys.</p>
+        <p>b. This plot uses line marks with its length channel encoding for
+            the number of train stations and its horizontal position channel encoding 
+            for the state.</p>
+    </div>
+    <div class="divider"></div>
+    <select id="plot3Button"></select>
+    <div id="plot3" class="center_plot"></div>
+    <div class="plot_response">
+        <p>a. The color scheme in this plot encodes for which key/value is being displayed. 
+            Bars with darker colors represent the number of trains with AC in all classes, 
+            whereas bars with ligher colors represent the number of train without AC in all 
+            classes.</p>
+        <p>b. This plot uses line marks with its length channel encoding for
+            the number of train, its horizontal position channel encoding 
+            for the zone, and its color channel to differentiate between the two keys.</p>
+    </div>
+    <div class="divider"></div>
+    <div id="plot4Button">
+        <p>Display:</p>
+        <input type="radio" id="radio_AC" name="region" value="full_ac" checked="checked">
+        <label for="full_ac">Trains with AC</label>
+        <br>
+        <input type="radio" id="radio_1Class" name="region" value="first_class">
+        <label for="first_class">Trains with 1st Class</label>
+    </div>
+    <div id="plot4" class="center_plot"></div>
+    <div class="plot_response">
+        <p>a. The color scheme in this plot encodes for the number of trains in each state 
+            with AC or with 1st class, depending on the selection. Darker colors encode 
+            for more trains, while lighter colors encode for less trains.</p>
+        <p>b. This plot uses area marks with color, shape, vertical position, and horizontal 
+            position channels to encode for the number of trains in each state.</p>
+    </div>
+    <div class="divider"></div>
+    <div id="plot5" class="center_plot"></div>
+    <div class="plot_response">
+        <p>a. The transparency of the lines indicate the number of trains that utilize that path. 
+            The more opaque the line, the more trains that go through it.</p>
+        <p>b. This plot uses dots and lines for marks. 
+            The channels used for the dots are horizontal and vertical position. 
+            For the lines, the channels used are shape and width, with wider lines representing paths with more trains.</p>
+    </div>
+</body>
+</html>

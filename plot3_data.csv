@@ -1,0 +1,166 @@
+zone,state,full_ac,not_full_ac
+CR,Andhra Pradesh,0,2
+CR,Chhattisgarh,0,1
+CR,Gujarat,0,3
+CR,Jammu and Kashmir,0,1
+CR,Karnataka,0,15
+CR,Madhya Pradesh,3,24
+CR,Maharashtra,10,83
+CR,Punjab,1,0
+CR,Rajasthan,0,1
+CR,Uttar Pradesh,0,5
+CR,Uttarakhand,1,0
+ECR,Bihar,0,24
+ECR,Delhi NCT,0,1
+ECR,Jammu and Kashmir,0,1
+ECR,Jharkhand,0,5
+ECR,Karnataka,0,1
+ECR,Madhya Pradesh,0,2
+ECR,Punjab,0,1
+ECR,Uttar Pradesh,0,4
+ECR,West Bengal,0,1
+ECoR,Chhattisgarh,0,2
+ECoR,Gujarat,0,1
+ECoR,Karnataka,0,2
+ECoR,Maharashtra,0,3
+ECoR,Orissa,0,6
+ECoR,Tamil Nadu,0,1
+ECoR,Uttarakhand,0,1
+ER,Bangladesh,0,2
+ER,Bihar,1,9
+ER,Delhi NCT,0,5
+ER,Haryana,1,0
+ER,Jammu and Kashmir,0,3
+ER,Jharkhand,0,14
+ER,Maharashtra,1,1
+ER,Odisha,0,1
+ER,Rajasthan,0,2
+ER,Uttar Pradesh,0,1
+ER,Uttarakhand,0,5
+ER,West Bengal,0,33
+KR,Goa,3,8
+KR,Karnataka,0,1
+KR,Maharashtra,2,3
+NCR,Delhi NCT,0,1
+NCR,Haryana,0,1
+NCR,Madhya Pradesh,0,9
+NCR,Rajasthan,0,6
+NCR,Uttar Pradesh,0,20
+NCR,Uttarakhand,0,5
+NER,Bihar,0,41
+NER,Chandigarh,0,1
+NER,Delhi NCT,2,3
+NER,Gujarat,0,1
+NER,Haryana,1,0
+NER,Karnataka,0,1
+NER,Madhya Pradesh,0,1
+NER,Maharashtra,1,1
+NER,Uttar Pradesh,1,86
+NER,Uttarakhand,1,32
+NER,West Bengal,0,1
+NFR,Assam,0,40
+NFR,Bihar,0,3
+NFR,Chandigarh,0,1
+NFR,Gujarat,0,1
+NFR,Jammu and Kashmir,0,3
+NFR,Karnataka,0,1
+NFR,Nagaland,0,2
+NFR,Rajasthan,0,4
+NFR,Tamil Nadu,0,1
+NFR,Tripura,0,7
+NFR,West Bengal,0,24
+NR,Assam,3,3
+NR,Bihar,1,3
+NR,Chandigarh,3,3
+NR,Delhi NCT,10,59
+NR,Goa,1,0
+NR,Gujarat,0,5
+NR,Haryana,0,55
+NR,Himachal Pradesh,0,14
+NR,Jammu and Kashmir,6,16
+NR,Karnataka,2,0
+NR,Madhya Pradesh,1,7
+NR,Maharashtra,0,4
+NR,Puducherry,0,1
+NR,Punjab,1,41
+NR,Rajasthan,3,8
+NR,Uttar Pradesh,1,26
+NR,Uttarakhand,3,24
+NR,West Bengal,0,1
+NWR,Chandigarh,0,1
+NWR,Delhi NCT,0,8
+NWR,Gujarat,0,1
+NWR,Haryana,0,30
+NWR,Karnataka,1,0
+NWR,Madhya Pradesh,0,2
+NWR,Maharashtra,0,6
+NWR,Punjab,0,8
+NWR,Rajasthan,2,81
+NWR,Uttar Pradesh,0,1
+NWR,Uttarakhand,0,3
+SCR,Andhra Pradesh,7,96
+SCR,Bihar,0,1
+SCR,Chhattisgarh,0,1
+SCR,Goa,0,1
+SCR,Gujarat,0,2
+SCR,Karnataka,1,10
+SCR,Madhya Pradesh,0,1
+SCR,Maharashtra,2,32
+SCR,Rajasthan,0,2
+SECR,Chhattisgarh,0,18
+SECR,Jammu and Kashmir,1,0
+SECR,Madhya Pradesh,1,31
+SECR,Maharashtra,0,4
+SECR,Uttar Pradesh,0,2
+SER,Andhra Pradesh,0,1
+SER,Chhattisgarh,1,0
+SER,Goa,0,1
+SER,Jammu and Kashmir,0,2
+SER,Jharkhand,0,6
+SER,Karnataka,0,2
+SER,Maharashtra,2,3
+SER,Odisha,0,2
+SER,Orissa,0,3
+SER,Puducherry,0,2
+SER,Rajasthan,0,1
+SER,Uttar Pradesh,0,1
+SER,West Bengal,0,16
+SR,Andhra Pradesh,1,0
+SR,Chandigarh,0,1
+SR,Chhattisgarh,0,1
+SR,Goa,0,1
+SR,Gujarat,0,4
+SR,Jammu and Kashmir,0,5
+SR,Karnataka,2,29
+SR,Kerala,0,30
+SR,Madhya Pradesh,0,1
+SR,Maharashtra,0,5
+SR,Puducherry,0,6
+SR,Tamil Nadu,9,93
+SR,Uttarakhand,0,2
+SR,West Bengal,0,3
+SWR,Andhra Pradesh,0,1
+SWR,Chhattisgarh,0,1
+SWR,Goa,0,6
+SWR,Karnataka,7,123
+SWR,Kerala,0,2
+SWR,Maharashtra,2,2
+SWR,Rajasthan,0,4
+SWR,Tamil Nadu,0,8
+WCR,Chhattisgarh,0,2
+WCR,Gujarat,0,9
+WCR,Madhya Pradesh,3,20
+WCR,Maharashtra,0,4
+WCR,Rajasthan,1,0
+WCR,Uttar Pradesh,0,2
+WR,Delhi NCT,1,1
+WR,Gujarat,3,151
+WR,Haryana,0,1
+WR,Jammu and Kashmir,2,3
+WR,Madhya Pradesh,2,45
+WR,Maharashtra,15,38
+WR,Punjab,0,2
+WR,Rajasthan,1,9
+WR,Tamil Nadu,0,2
+WR,Uttar Pradesh,0,1
+WR,Uttarakhand,1,4

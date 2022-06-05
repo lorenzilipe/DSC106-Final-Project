@@ -1,0 +1,73 @@
+.center_plot {
+    margin: auto;
+    text-align: center;
+}
+
+.divider {
+    margin: auto;
+    padding: 50px;
+}
+
+.axis {
+    font: 16px sans-serif;
+    text-decoration: underline;
+}
+
+.plot_title {
+    font: 24px sans-serif;
+    text-decoration: underline;
+}
+
+.plot_bg {
+    fill: lightskyblue;
+    fill-opacity: 5%;
+}
+
+.legend {
+    font: 16px sans-serif;
+}
+
+.plot1_dots {
+    fill: lightseagreen;
+    fill-opacity: 50%;
+}
+
+.plot2_bars {
+    fill: lightseagreen;
+}
+
+#plot3Button {
+    top: 60px;
+    left: 45%;
+    margin-left:-500px;
+    padding: 5px;
+    position: relative;
+    font: 16px sans-serif;
+}
+
+#plot4Button {
+    top: 60px;
+    left: 55%;
+    margin-left:-500px;
+    padding: 5px;
+    position: relative;
+    font: 16px sans-serif;
+}
+
+.tooltip {
+    background-color: whitesmoke;
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    position: fixed;
+    padding: 5px;
+}
+
+.plot_response {
+    margin: auto;
+    width: fit-content;
+    max-width: 40%;
+    text-align: left;
+    padding: 10px;
+    font-size: 24px;
+}
